@@ -1,6 +1,6 @@
 [submodule "minisat/cppsrc"]
 	path = minisat/cppsrc
-	url = git@github.com:chrjabs/minisat.git
+	url = https://github.com:chrjabs/minisat.git
 [submodule "glucose/cppsrc"]
 	path = glucose/cppsrc
-	url = git@github.com:chrjabs/glucose4.git
+	url = https://github.com:chrjabs/glucose4.git
